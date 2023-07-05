@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/CSR-IITDH/static/css/main.4feeb61d.css",
+    "main.js": "/CSR-IITDH/static/js/main.6221c8e7.js",
+    "static/js/787.eee3714d.chunk.js": "/CSR-IITDH/static/js/787.eee3714d.chunk.js",
+    "static/media/blog-1.jpg": "/CSR-IITDH/static/media/blog-1.ad00e8aee5c46fd2301e.jpg",
+    "static/media/bg.jpg": "/CSR-IITDH/static/media/bg.7a33092395944a53393f.jpg",
+    "static/media/blog-4.jpg": "/CSR-IITDH/static/media/blog-4.c8de549e3c4b9a591c4c.jpg",
+    "static/media/savant_agriculture-1.jpg": "/CSR-IITDH/static/media/savant_agriculture-1.c8de549e3c4b9a591c4c.jpg",
+    "static/media/blog-3.jpg": "/CSR-IITDH/static/media/blog-3.800fe3524b1a4d60a207.jpg",
+    "static/media/education.jpg": "/CSR-IITDH/static/media/education.7b34469c424937285365.jpg",
+    "static/media/blog-2.jpg": "/CSR-IITDH/static/media/blog-2.c87a3cd2eb611cc710cc.jpg",
+    "static/media/cover-photo.png": "/CSR-IITDH/static/media/cover-photo.033837b92ff822a0f36b.png",
+    "static/media/IITDh_logo.png": "/CSR-IITDH/static/media/IITDh_logo.486be2112fd65fda56e4.png",
+    "static/media/coe.png": "/CSR-IITDH/static/media/coe.6723f399768b4d954403.png",
+    "static/media/fontawesome-webfont.ttf?v=3.0.1": "/CSR-IITDH/static/media/fontawesome-webfont.0ea5dabb316dfa4a4c07.ttf",
+    "static/media/tech.png": "/CSR-IITDH/static/media/tech.87432b62c3243163e078.png",
+    "static/media/fontawesome-webfont.woff?v=3.0.1": "/CSR-IITDH/static/media/fontawesome-webfont.dd650434c9169e2439b3.woff",
+    "static/media/fontawesome-webfont.eot": "/CSR-IITDH/static/media/fontawesome-webfont.3f7eacf6b819862a1040.eot",
+    "static/media/glyphicons-halflings.png": "/CSR-IITDH/static/media/glyphicons-halflings.191ce1051bca2cdc07b6.png",
+    "index.html": "/CSR-IITDH/index.html",
+    "main.4feeb61d.css.map": "/CSR-IITDH/static/css/main.4feeb61d.css.map",
+    "main.6221c8e7.js.map": "/CSR-IITDH/static/js/main.6221c8e7.js.map",
+    "787.eee3714d.chunk.js.map": "/CSR-IITDH/static/js/787.eee3714d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4feeb61d.css",
+    "static/js/main.6221c8e7.js"
+  ]
+}
